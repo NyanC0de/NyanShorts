@@ -1,0 +1,10 @@
+.logo {
+	border:solid 8px lightblue;
+	height: 148px;
+	width: 215px;
+	background-color: cyan;
+}
+
+body {
+	background-color: darkcyan;
+}
