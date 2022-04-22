@@ -7,7 +7,7 @@ body {
   width: 300px;
   text-align: center;
   border-radius: 30px;
-  position: absolute;
+  position: relative;
   top: 250px;
   left: 320px;
 }
@@ -17,6 +17,7 @@ body {
   width: 300px;
   text-align: center;
   border-radius: 30px;
+  position: relative;
   top: 450px;
   left: 320px;
 }
