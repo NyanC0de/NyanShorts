@@ -21,3 +21,19 @@ body {
   top: 450px;
   left: 520px;
 }
+
+.email_text {
+  text-align: center;
+  border-radius: 30px;
+  position: absolute;
+  top: 200px;
+  left: 520px;
+}
+
+.password_text {
+  text-align: center;
+  border-radius: 30px;
+  position: absolute;
+  top: 400px;
+  left: 520px;
+}
