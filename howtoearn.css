@@ -8,3 +8,10 @@
 body {
   background-color: darkcyan;
 }
+
+.how{
+	font-family: monospace;
+	text-align: center;
+	position: relative;
+	top: 150px;
+}
