@@ -24,18 +24,24 @@ body {
 
 .email_text {
   text-align: center;
+  font-family: Monospace;
+  font-size: 30px;
   border-radius: 30px;
   border:solid aliceblue 5px;
   position: absolute;
-  top: 180px;
+  padding: 3px;
+  top: 175px;
   left: 630px;
 }
 
 .password_text {
   text-align: center;
+  font-family: Monospace;
+  font-size: 30px;
   border-radius: 30px;
   border:solid aliceblue 5px;
+  padding: 3px;
   position: absolute;
-  top: 380px;
+  top: 375px;
   left: 610px;
 }
