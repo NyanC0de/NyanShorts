@@ -16,3 +16,10 @@ body {
 	top: 10px; 
 	right: 20px;;
 }
+
+button {
+	background: linear-gradient(#00f1fd,aquamarine);
+	border-radius: 5px;
+	font-family: Monospace;
+	font-size: large;
+}
