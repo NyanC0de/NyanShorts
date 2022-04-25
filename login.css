@@ -2,6 +2,16 @@ body {
 	background-color: darkcyan;
 }
 
+.logo {
+	border:solid 8px lightblue;
+	height: 148px;
+	width: 215px;
+	background-color: cyan;
+	position: absolute;
+	top: 40px;
+	left: 250px;
+}
+
 .email {
   height: 20px;
   width: 300px;
