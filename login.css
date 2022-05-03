@@ -1,5 +1,6 @@
 body {
 	background-color: darkcyan;
+	text-align: center;
 }
 
 .logo {
@@ -7,9 +8,8 @@ body {
 	height: 148px;
 	width: 215px;
 	background-color: cyan;
-	position: absolute;
+	position: relative;
 	top: 20px;
-	left: 558px;
 }
 
 .email {
@@ -17,9 +17,8 @@ body {
   width: 300px;
   text-align: center;
   border-radius: 30px;
-  position: absolute;
-  top: 250px;
-  left: 520px;
+  position: relative;
+  top: 80px;
 }
 
 .password {
@@ -27,9 +26,8 @@ body {
   width: 300px;
   text-align: center;
   border-radius: 30px;
-  position: absolute;
-  top: 450px;
-  left: 520px;
+  position: relative;
+  top: 180px;
 }
 
 .email_text {
@@ -38,10 +36,9 @@ body {
   font-size: 30px;
   border-radius: 30px;
   border:solid aliceblue 5px;
-  position: absolute;
+  position: relative;
   padding: 3px;
-  top: 175px;
-  left: 625px;
+  top: 50px;
 }
 
 .password_text {
@@ -51,7 +48,6 @@ body {
   border-radius: 30px;
   border:solid aliceblue 5px;
   padding: 3px;
-  position: absolute;
-  top: 375px;
-  left: 610px;
+  position: relative;
+  top: 150px;
 }
