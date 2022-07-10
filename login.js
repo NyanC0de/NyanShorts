@@ -28,6 +28,8 @@ function getInfo(){
         console.log("zalogowano jako " + username + " !!!");
         return;
       }
+    
+  }
     alert("Użytkownik nie istnieje lub hasło jest niepoprawne");
     console.log("Użytkownik nie istnieje lub hasło jest niepoprawne");
   }
