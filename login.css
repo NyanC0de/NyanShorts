@@ -12,7 +12,7 @@ body {
 	top: 20px;
 }
 
-.email {
+.nick {
   height: 20px;
   width: 300px;
   text-align: center;
@@ -30,7 +30,7 @@ body {
   top: 180px;
 }
 
-.email_text {
+.nick_text {
   text-align: center;
   font-family: Monospace;
   font-size: 30px;
