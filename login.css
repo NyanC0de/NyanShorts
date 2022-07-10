@@ -12,6 +12,13 @@ body {
 	top: 20px;
 }
 
+.login_button{
+position: relative;
+top: 220px;
+right: 155px;
+width: 100px;
+}
+
 .nick {
   height: 20px;
   width: 300px;
@@ -28,6 +35,7 @@ body {
   border-radius: 30px;
   position: relative;
   top: 180px;
+  left:20px;
 }
 
 .nick_text {
