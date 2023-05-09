@@ -26,6 +26,7 @@ width: 100px;
   border-radius: 30px;
   position: relative;
   top: 80px;
+  left: 50px;
 }
 
 .password {
@@ -35,7 +36,7 @@ width: 100px;
   border-radius: 30px;
   position: relative;
   top: 180px;
-
+  left: 50px;
 }
 
 .nick_text {
