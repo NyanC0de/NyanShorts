@@ -21,22 +21,22 @@ width: 100px;
 
 .nick {
   height: 20px;
-  width: 300px;
+  width: 40;
   text-align: center;
   border-radius: 30px;
   position: absolute;
   top: 80px;
-  left: 50px;
+  left: 25;
 }
 
 .password {
   height: 20px;
-  width: 300px;
+  width: 40;
   text-align: center;
   border-radius: 30px;
   position: absolute;
   top: 180px;
-  left: 50px;
+  left: 25;
 }
 
 .nick_text {
